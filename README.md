@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**lchojnacki/lchojnacki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Python 🐍 Web Developer with over 4 years of hands-on experience. I prioritize code quality,
+high test coverage and the utilization of tools such as static type checkers and linters.
+I enjoy sharing my knowledge, both at conferences and during programming lessons and
+consultations.
 
-Here are some ideas to get you started:
+#### Technology stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python, Django, Django REST framework, Graphene-Django, Django-Channels, Pytest, Docker (with compose),
+Gitlab CI, GitHub Actions, PostgreSQL, Celery, RabbitMQ, Gunicorn, Linux, Bash
+
+#### Talks
+
+- PyKonik Tech Talks #61: https://www.pykonik.org/tech-talks/61/
