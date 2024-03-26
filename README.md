@@ -13,3 +13,7 @@ Gitlab CI, GitHub Actions, PostgreSQL, Celery, RabbitMQ, Gunicorn, Linux, Bash
 #### Talks
 
 - PyKonik Tech Talks #61: https://www.pykonik.org/tech-talks/61/
+
+#### Badges
+
+[![Codewars](https://www.codewars.com/users/lchojnacki/badges/large)](https://www.codewars.com/users/lchojnacki)
