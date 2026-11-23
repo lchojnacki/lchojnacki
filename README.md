@@ -13,7 +13,7 @@ Gitlab CI, GitHub Actions, PostgreSQL, Celery, RabbitMQ, Gunicorn, Linux, Bash
 #### Talks
 
 - Mutation testing in Python @ PyKonik Tech Talks #61: https://www.pykonik.org/tech-talks/61/
-- Introduction to Cython @ PyKonik Tech Talks #61: https://www.pykonik.org/tech-talks/75/
+- Introduction to Cython @ PyKonik Tech Talks #75: https://www.pykonik.org/tech-talks/75/
 
 #### Badges
 
